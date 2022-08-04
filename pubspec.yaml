@@ -1,0 +1,26 @@
+name: driver_app_e_waste_management
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  auth_service:
+    path: packages/auth_service
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^3.3.11
+  firebase_core: ^1.13.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/leaffill.png

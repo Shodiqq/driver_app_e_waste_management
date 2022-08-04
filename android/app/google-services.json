@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635010006640",
+    "project_id": "driver-e-waste-managemen",
+    "storage_bucket": "driver-e-waste-managemen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635010006640:android:2f1514baf40be82c5b7eb5",
+        "android_client_info": {
+          "package_name": "com.example.driver_app_e_waste_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635010006640-2tfqj1928ev1ktf67904ccghos75kpl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pXRq3ZVByV0UlIe423f1bJPJI_jM-jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635010006640-2tfqj1928ev1ktf67904ccghos75kpl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
